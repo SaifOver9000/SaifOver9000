@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 
-I'm a CS major trying to learn as much as possible to be able to build exciting and interesting applications from scratch.
+I'm a CS major trying to learn as much as possible to build exciting and interesting applications from scratch.
 
 *   🌍  I'm based in Wolfville
 *   ✉️  You can contact me at [saifmiskin9@gmail.com](mailto:saifmiskin9@gmail.com)
