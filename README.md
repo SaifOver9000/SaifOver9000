@@ -7,9 +7,9 @@ Software Developer
 
 I'm an aspiring developer trying to learn as much as possible to build exciting and interesting applications from scratch.
 
-*   🌍  I'm based in Wolfville
+*   🌍  I'm based in Halifax, NS
 *   ✉️  You can contact me at [saifmiskin9@gmail.com](mailto:saifmiskin9@gmail.com)
-*   🧠  I'm learning Flask
+*   🧠  I'm working on Ml algorithms
 *   🤝  I'm open to collaborating on projects
 
 
