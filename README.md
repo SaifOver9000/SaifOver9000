@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 
-I'm an developer trying to learn as much as possible to build exciting and interesting applications from scratch.
+I'm a developer trying to learn as much as possible to build exciting and interesting applications from scratch.
 
 *   ✉️  You can contact me at [saifmiskin9@gmail.com](mailto:saifmiskin9@gmail.com)
 *   🤝  I'm open to collaborating on projects
