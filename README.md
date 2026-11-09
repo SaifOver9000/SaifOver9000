@@ -1,4 +1,16 @@
-
+<h1 align="center">Hi, I'm Saif Miskin 👋</h1>
+<h3 align="center">Software Developer · Full-stack web · Applied AI</h3>
+ 
+<p align="center">
+  <a href="https://saifover9000.github.io"><img src="https://img.shields.io/badge/Portfolio-saifover9000.github.io-FF5F5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/saif-miskin-54a299201"><img src="https://img.shields.io/badge/LinkedIn-Saif%20Miskin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:saifmiskin9@gmail.com"><img src="https://img.shields.io/badge/Email-saifmiskin9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-New%20Grad%20%2F%20Junior%20Dev%20Roles-2EA44F?style=flat-square" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Location-Canada%20(ON%20%2F%20NS%20%2F%20Remote)-555555?style=flat-square" alt="Location"/>
+</p>
+---
  
 ### About me
  
@@ -7,9 +19,9 @@ I build full-stack web apps and practical AI tools, from a machine-learning mode
 - 🔭 **Currently building:** [Kliniway](https://github.com/SaifOver9000/Kliniway.github.io), a web app tackling a real problem in healthcare
 - 🌱 **Currently sharpening:** backend fundamentals, CI/CD, and agentic AI systems
 - 🤝 **Looking for:** new-grad or junior software developer roles, and projects to collaborate on
-
+---
  
-### Featured projects
+### ⭐ Featured projects
  
 | Project | What it does | Stack |
 |---|---|---|
@@ -19,7 +31,7 @@ I build full-stack web apps and practical AI tools, from a machine-learning mode
  
 ---
  
-### Tech stack
+### 🛠️ Tech stack
  
 **Languages**
 <br/>
