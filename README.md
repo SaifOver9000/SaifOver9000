@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/saif-pixel.gif" alt="Pixel art of Saif holding a mic and throwing a peace sign" width="160"/>
+</p>
 <h1 align="center">Hi, I'm Saif Miskin 👋</h1>
 <h3 align="center">Software Developer · Full-stack web · Applied AI</h3>
  
