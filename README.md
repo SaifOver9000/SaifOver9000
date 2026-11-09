@@ -17,7 +17,7 @@
  
 ### About me
  
-I build full-stack web apps and practical AI tools, from a machine-learning model that predicts peptide cytotoxicity (my capstone project) to an autonomous Python coding agent built on the Gemini API. I care about shipping working software: tested, deployed, and readable by the next developer.
+I build full-stack web apps and practical AI tools, from a machine-learning model that predicts peptide cytotoxicity (my capstone project) to an autonomous Python coding agent built on the Gemini API. During my co-ops, I also developed Unity-based projects in C# in a research lab setting.
  
 - 🔭 **Currently building:** [Kliniway](https://github.com/SaifOver9000/Kliniway.github.io), a web app tackling a real problem in healthcare
 - 🌱 **Currently sharpening:** backend fundamentals, CI/CD, and agentic AI systems
