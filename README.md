@@ -24,7 +24,7 @@ I build full-stack web apps and practical AI tools, from a machine-learning mode
 - 🤝 **Looking for:** new-grad or junior software developer roles, and projects to collaborate on
 ---
  
-### ⭐ Featured projects
+### Featured projects
  
 | Project | What it does | Stack |
 |---|---|---|
@@ -34,7 +34,7 @@ I build full-stack web apps and practical AI tools, from a machine-learning mode
  
 ---
  
-### 🛠️ Tech stack
+### Tech stack
  
 **Languages**
 <br/>
